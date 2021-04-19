@@ -1,0 +1,6 @@
+module Pods_CalculatorRN {
+  umbrella header "Pods-CalculatorRN-umbrella.h"
+
+  export *
+  module * { export * }
+}

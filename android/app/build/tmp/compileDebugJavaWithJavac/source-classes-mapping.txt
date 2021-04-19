@@ -1,0 +1,14 @@
+com/calculatorrn/BuildConfig.java
+ com.calculatorrn.BuildConfig
+com/calculatorrn/ReactNativeFlipper.java
+ com.calculatorrn.ReactNativeFlipper
+ com.calculatorrn.ReactNativeFlipper$1
+ com.calculatorrn.ReactNativeFlipper$2
+ com.calculatorrn.ReactNativeFlipper$2$1
+com/calculatorrn/MainApplication.java
+ com.calculatorrn.MainApplication
+ com.calculatorrn.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/calculatorrn/MainActivity.java
+ com.calculatorrn.MainActivity
